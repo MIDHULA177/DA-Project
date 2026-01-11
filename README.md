@@ -1,4 +1,4 @@
-HR Analytics – Employee Attrition Prediction
+HR Analytics – Employee Attrition Prediction 
 
 This project is an end-to-end HR Analytics solution developed to analyze employee data, identify the main causes of employee resignation, and predict future attrition using machine learning techniques. The project also provides actionable business insights to help organizations improve employee retention.
 
